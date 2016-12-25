@@ -1,230 +1,230 @@
-didn, know, 
-ll, one, 
-ll, see, 
-ll, get, 
-ll, just, 
-ll, can, 
-ll, go, 
-e, Chang, 
-d, like, 
-though, even, 
-China, India, 
-City, London, 
-won, let, 
-single, every, 
-looks, like, 
-five, years, 
-million, people, 
-Year, New, 
-school, high, 
-bit, little, 
-show, going, 
-year, last, 
-year, old, 
-year, every, 
-last, years, 
-old, years, 
-make, sure, 
-make, just, 
-make, people, 
-make, can, 
-make, gonna, 
-make, will, 
-make, like, 
-little, just, 
-little, can, 
-little, like, 
-feel, can, 
-feel, like, 
-kind, think, 
-kind, know, 
-kind, like, 
-come, back, 
-even, just, 
-even, people, 
-even, can, 
-even, know, 
-spend, time, 
-economic, growth, 
-two, years, 
-two, one, 
-two, three, 
-two, can, 
-said, like, 
-States, United, 
-term, long, 
-long, time, 
-let, just, 
-let, know, 
-let, go, 
-put, just, 
-much, Thank, 
-much, can, 
-much, like, 
-think, one, 
-think, time, 
-think, really, 
-think, going, 
-think, just, 
-think, people, 
-think, can, 
-think, know, 
-think, like, 
-world, around, 
-world, one, 
-world, people, 
-world, can, 
-world, will, 
-find, can, 
-change, can, 
-use, can, 
-another, one, 
-ago, years, 
-many, people, 
-one, three, 
-one, right, 
-one, day, 
-one, way, 
-one, time, 
-one, going, 
-one, get, 
-one, just, 
-one, things, 
-one, people, 
-one, thing, 
-one, can, 
-one, know, 
-one, gonna, 
-one, will, 
-one, like, 
-one, us, 
-work, people, 
-better, can, 
-help, can, 
-every, day, 
-good, really, 
-good, can, 
-now, right, 
-now, time, 
-now, see, 
-now, going, 
-now, just, 
-now, can, 
-now, know, 
-now, gonna, 
-now, like, 
-right, just, 
-right, can, 
-right, know, 
-right, gonna, 
-right, like, 
-give, just, 
-lot, people, 
-way, get, 
-way, just, 
-way, people, 
-way, can, 
-way, know, 
-way, like, 
-time, see, 
-time, get, 
-time, first, 
-time, just, 
-time, people, 
-time, can, 
-time, know, 
-time, will, 
-see, really, 
-see, going, 
-see, just, 
-see, people, 
-see, can, 
-see, know, 
-see, actually, 
-see, will, 
-see, like, 
-see, look, 
-take, just, 
-take, can, 
-take, gonna, 
-take, look, 
-York, New, 
-really, get, 
-really, just, 
-really, things, 
-really, people, 
-really, can, 
-really, know, 
-really, like, 
-going, get, 
-going, just, 
-going, things, 
-going, people, 
-going, know, 
-going, like, 
-get, just, 
-get, back, 
-get, people, 
-get, can, 
-get, know, 
-get, gonna, 
-get, want, 
-get, go, 
-get, will, 
-get, like, 
-also, can, 
-first, thing, 
-just, back, 
-just, people, 
-just, can, 
-just, know, 
-just, say, 
-just, Now, 
-just, gonna, 
-just, want, 
-just, go, 
-just, will, 
-just, like, 
-just, look, 
-back, can, 
-back, go, 
-things, people, 
-things, can, 
-things, know, 
-things, like, 
-people, can, 
-people, know, 
-people, say, 
-people, will, 
-people, like, 
-thing, can, 
-something, can, 
-something, know, 
-something, like, 
-can, know, 
-can, actually, 
-can, say, 
-can, Now, 
-can, want, 
-can, go, 
-can, will, 
-can, tell, 
-can, like, 
-can, look, 
-can, us, 
-can, need, 
-know, Now, 
-know, gonna, 
-know, want, 
-know, go, 
-know, like, 
-know, us, 
-know, need, 
-say, like, 
-Now, like, 
-gonna, go, 
-gonna, like, 
-want, like, 
-go, like, 
-will, us, 
-like, look, 
+Itemset:[though, even, ] Frequency: 47
+Itemset:[China, India, ] Frequency: 39
+Itemset:[City, London, ] Frequency: 40
+Itemset:[single, every, ] Frequency: 39
+Itemset:[Chang, e, ] Frequency: 38
+Itemset:[looks, like, ] Frequency: 52
+Itemset:[Year, New, ] Frequency: 50
+Itemset:[didn, know, ] Frequency: 36
+Itemset:[school, high, ] Frequency: 32
+Itemset:[bit, little, ] Frequency: 138
+Itemset:[five, years, ] Frequency: 35
+Itemset:[show, going, ] Frequency: 35
+Itemset:[year, last, ] Frequency: 33
+Itemset:[year, old, ] Frequency: 46
+Itemset:[year, every, ] Frequency: 32
+Itemset:[last, years, ] Frequency: 59
+Itemset:[old, years, ] Frequency: 47
+Itemset:[make, sure, ] Frequency: 68
+Itemset:[make, just, ] Frequency: 40
+Itemset:[make, people, ] Frequency: 36
+Itemset:[make, can, ] Frequency: 85
+Itemset:[make, gonna, ] Frequency: 36
+Itemset:[make, will, ] Frequency: 41
+Itemset:[make, like, ] Frequency: 38
+Itemset:[little, just, ] Frequency: 44
+Itemset:[little, can, ] Frequency: 43
+Itemset:[little, like, ] Frequency: 40
+Itemset:[feel, can, ] Frequency: 32
+Itemset:[feel, like, ] Frequency: 48
+Itemset:[ll, one, ] Frequency: 36
+Itemset:[ll, see, ] Frequency: 58
+Itemset:[ll, get, ] Frequency: 53
+Itemset:[ll, just, ] Frequency: 50
+Itemset:[ll, can, ] Frequency: 35
+Itemset:[ll, go, ] Frequency: 35
+Itemset:[kind, think, ] Frequency: 33
+Itemset:[kind, know, ] Frequency: 33
+Itemset:[kind, like, ] Frequency: 49
+Itemset:[come, back, ] Frequency: 43
+Itemset:[even, just, ] Frequency: 33
+Itemset:[even, people, ] Frequency: 33
+Itemset:[even, can, ] Frequency: 68
+Itemset:[even, know, ] Frequency: 33
+Itemset:[spend, time, ] Frequency: 32
+Itemset:[won, let, ] Frequency: 37
+Itemset:[economic, growth, ] Frequency: 32
+Itemset:[two, years, ] Frequency: 44
+Itemset:[two, one, ] Frequency: 66
+Itemset:[two, three, ] Frequency: 49
+Itemset:[two, can, ] Frequency: 32
+Itemset:[said, like, ] Frequency: 33
+Itemset:[States, United, ] Frequency: 85
+Itemset:[term, long, ] Frequency: 36
+Itemset:[long, time, ] Frequency: 50
+Itemset:[put, just, ] Frequency: 35
+Itemset:[much, Thank, ] Frequency: 58
+Itemset:[much, can, ] Frequency: 34
+Itemset:[much, like, ] Frequency: 35
+Itemset:[think, one, ] Frequency: 34
+Itemset:[think, time, ] Frequency: 41
+Itemset:[think, really, ] Frequency: 47
+Itemset:[think, going, ] Frequency: 42
+Itemset:[think, just, ] Frequency: 37
+Itemset:[think, people, ] Frequency: 59
+Itemset:[think, can, ] Frequency: 49
+Itemset:[think, know, ] Frequency: 60
+Itemset:[think, like, ] Frequency: 43
+Itemset:[world, around, ] Frequency: 55
+Itemset:[world, one, ] Frequency: 32
+Itemset:[world, people, ] Frequency: 48
+Itemset:[world, can, ] Frequency: 42
+Itemset:[world, will, ] Frequency: 40
+Itemset:[change, can, ] Frequency: 43
+Itemset:[use, can, ] Frequency: 53
+Itemset:[another, one, ] Frequency: 81
+Itemset:[ago, years, ] Frequency: 85
+Itemset:[many, people, ] Frequency: 58
+Itemset:[one, three, ] Frequency: 35
+Itemset:[one, right, ] Frequency: 35
+Itemset:[one, day, ] Frequency: 59
+Itemset:[one, way, ] Frequency: 39
+Itemset:[one, time, ] Frequency: 58
+Itemset:[one, going, ] Frequency: 33
+Itemset:[one, get, ] Frequency: 59
+Itemset:[one, just, ] Frequency: 99
+Itemset:[one, people, ] Frequency: 55
+Itemset:[one, things, ] Frequency: 46
+Itemset:[one, thing, ] Frequency: 68
+Itemset:[one, can, ] Frequency: 93
+Itemset:[one, know, ] Frequency: 49
+Itemset:[one, gonna, ] Frequency: 33
+Itemset:[one, will, ] Frequency: 46
+Itemset:[one, like, ] Frequency: 75
+Itemset:[one, us, ] Frequency: 35
+Itemset:[let, just, ] Frequency: 34
+Itemset:[let, know, ] Frequency: 35
+Itemset:[let, go, ] Frequency: 54
+Itemset:[work, people, ] Frequency: 32
+Itemset:[better, can, ] Frequency: 33
+Itemset:[help, can, ] Frequency: 39
+Itemset:[find, can, ] Frequency: 43
+Itemset:[every, day, ] Frequency: 57
+Itemset:[good, really, ] Frequency: 35
+Itemset:[good, can, ] Frequency: 36
+Itemset:[now, right, ] Frequency: 113
+Itemset:[now, time, ] Frequency: 35
+Itemset:[now, see, ] Frequency: 35
+Itemset:[now, going, ] Frequency: 39
+Itemset:[now, just, ] Frequency: 38
+Itemset:[now, can, ] Frequency: 71
+Itemset:[now, know, ] Frequency: 40
+Itemset:[now, gonna, ] Frequency: 35
+Itemset:[now, like, ] Frequency: 35
+Itemset:[right, just, ] Frequency: 55
+Itemset:[right, can, ] Frequency: 44
+Itemset:[right, know, ] Frequency: 32
+Itemset:[right, gonna, ] Frequency: 32
+Itemset:[right, like, ] Frequency: 44
+Itemset:[give, just, ] Frequency: 32
+Itemset:[lot, people, ] Frequency: 46
+Itemset:[way, get, ] Frequency: 35
+Itemset:[way, just, ] Frequency: 36
+Itemset:[way, people, ] Frequency: 38
+Itemset:[way, can, ] Frequency: 60
+Itemset:[way, know, ] Frequency: 36
+Itemset:[way, like, ] Frequency: 46
+Itemset:[time, see, ] Frequency: 40
+Itemset:[time, get, ] Frequency: 47
+Itemset:[time, first, ] Frequency: 79
+Itemset:[time, just, ] Frequency: 38
+Itemset:[time, people, ] Frequency: 36
+Itemset:[time, can, ] Frequency: 54
+Itemset:[time, know, ] Frequency: 48
+Itemset:[time, will, ] Frequency: 50
+Itemset:[see, really, ] Frequency: 33
+Itemset:[see, going, ] Frequency: 40
+Itemset:[see, just, ] Frequency: 49
+Itemset:[see, people, ] Frequency: 37
+Itemset:[see, can, ] Frequency: 210
+Itemset:[see, know, ] Frequency: 40
+Itemset:[see, actually, ] Frequency: 37
+Itemset:[see, will, ] Frequency: 36
+Itemset:[see, like, ] Frequency: 49
+Itemset:[see, look, ] Frequency: 40
+Itemset:[take, just, ] Frequency: 33
+Itemset:[take, can, ] Frequency: 36
+Itemset:[take, gonna, ] Frequency: 39
+Itemset:[take, look, ] Frequency: 37
+Itemset:[York, New, ] Frequency: 73
+Itemset:[really, get, ] Frequency: 41
+Itemset:[really, just, ] Frequency: 49
+Itemset:[really, people, ] Frequency: 36
+Itemset:[really, things, ] Frequency: 37
+Itemset:[really, can, ] Frequency: 69
+Itemset:[really, know, ] Frequency: 73
+Itemset:[really, like, ] Frequency: 72
+Itemset:[million, people, ] Frequency: 39
+Itemset:[going, get, ] Frequency: 39
+Itemset:[going, just, ] Frequency: 45
+Itemset:[going, people, ] Frequency: 32
+Itemset:[going, things, ] Frequency: 34
+Itemset:[going, know, ] Frequency: 38
+Itemset:[going, like, ] Frequency: 35
+Itemset:[get, just, ] Frequency: 69
+Itemset:[get, back, ] Frequency: 54
+Itemset:[get, people, ] Frequency: 53
+Itemset:[get, can, ] Frequency: 123
+Itemset:[get, know, ] Frequency: 50
+Itemset:[get, gonna, ] Frequency: 49
+Itemset:[get, want, ] Frequency: 49
+Itemset:[get, go, ] Frequency: 44
+Itemset:[get, will, ] Frequency: 47
+Itemset:[get, like, ] Frequency: 54
+Itemset:[also, can, ] Frequency: 54
+Itemset:[first, thing, ] Frequency: 36
+Itemset:[just, back, ] Frequency: 36
+Itemset:[just, people, ] Frequency: 53
+Itemset:[just, can, ] Frequency: 99
+Itemset:[just, know, ] Frequency: 90
+Itemset:[just, say, ] Frequency: 36
+Itemset:[just, Now, ] Frequency: 40
+Itemset:[just, gonna, ] Frequency: 62
+Itemset:[just, want, ] Frequency: 50
+Itemset:[just, go, ] Frequency: 51
+Itemset:[just, will, ] Frequency: 35
+Itemset:[just, like, ] Frequency: 161
+Itemset:[just, look, ] Frequency: 34
+Itemset:[back, can, ] Frequency: 41
+Itemset:[back, go, ] Frequency: 51
+Itemset:[people, things, ] Frequency: 38
+Itemset:[people, can, ] Frequency: 101
+Itemset:[people, know, ] Frequency: 69
+Itemset:[people, say, ] Frequency: 52
+Itemset:[people, will, ] Frequency: 47
+Itemset:[people, like, ] Frequency: 75
+Itemset:[things, can, ] Frequency: 56
+Itemset:[things, know, ] Frequency: 44
+Itemset:[things, like, ] Frequency: 75
+Itemset:[thing, can, ] Frequency: 39
+Itemset:[something, can, ] Frequency: 53
+Itemset:[something, know, ] Frequency: 40
+Itemset:[something, like, ] Frequency: 59
+Itemset:[can, know, ] Frequency: 95
+Itemset:[can, actually, ] Frequency: 62
+Itemset:[can, say, ] Frequency: 53
+Itemset:[can, Now, ] Frequency: 39
+Itemset:[can, want, ] Frequency: 53
+Itemset:[can, go, ] Frequency: 58
+Itemset:[can, will, ] Frequency: 44
+Itemset:[can, tell, ] Frequency: 38
+Itemset:[can, like, ] Frequency: 115
+Itemset:[can, look, ] Frequency: 50
+Itemset:[can, us, ] Frequency: 45
+Itemset:[can, need, ] Frequency: 35
+Itemset:[know, Now, ] Frequency: 32
+Itemset:[know, gonna, ] Frequency: 33
+Itemset:[know, want, ] Frequency: 41
+Itemset:[know, go, ] Frequency: 37
+Itemset:[know, like, ] Frequency: 109
+Itemset:[know, us, ] Frequency: 37
+Itemset:[know, need, ] Frequency: 38
+Itemset:[say, like, ] Frequency: 37
+Itemset:[Now, like, ] Frequency: 37
+Itemset:[gonna, go, ] Frequency: 33
+Itemset:[gonna, like, ] Frequency: 35
+Itemset:[want, like, ] Frequency: 36
+Itemset:[go, like, ] Frequency: 32
+Itemset:[will, us, ] Frequency: 40
+Itemset:[like, d, ] Frequency: 69
+Itemset:[like, look, ] Frequency: 93
