@@ -87,3 +87,11 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Specific project files
+./videotags.json
+./videoData_vs_WordList.json
+
+# Jupyter checkpoints
+.ipynb_checkpoints/*
+
